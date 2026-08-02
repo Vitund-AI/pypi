@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Vitund package index</title>
+    <style>
+      body { font-family: system-ui, sans-serif; max-width: 40rem;
+             margin: 4rem auto; padding: 0 1.5rem; line-height: 1.6; }
+      code, pre { background: #f4f4f5; border-radius: 4px; }
+      code { padding: .1rem .3rem; }
+      pre { padding: .75rem 1rem; overflow-x: auto; }
+      .note { color: #71717a; font-size: .925rem; }
+      @media (prefers-color-scheme: dark) {
+        body { background: #18181b; color: #e4e4e7; }
+        code, pre { background: #27272a; }
+        .note { color: #a1a1aa; }
+        a { color: #93c5fd; }
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Vitund package index</h1>
+    <p>
+      A <a href="https://peps.python.org/pep-0503/">PEP 503</a> package index
+      serving the Python client libraries for Vitund Sandboxes —
+      <code>vitund-cli</code> (the <code>vtd</code> command-line client) and
+      <code>vitund-sdk</code> (the generated SDK it is built on).
+    </p>
+    <p class="note">
+      <strong>No releases have been published yet.</strong> The index is live
+      but empty; the command below will find nothing until the first release
+      lands.
+    </p>
+    <pre><code>pip install --extra-index-url https://vitund-ai.github.io/pypi/simple vitund-cli</code></pre>
+    <p>
+      These are <strong>0.x, pre-1.0 releases and the API is not frozen</strong>.
+      Expect breaking changes; do not pin production systems to them yet.
+    </p>
+    <p>
+      <a href="simple/">Browse the index</a> &middot;
+      <a href="https://github.com/Vitund-AI/pypi">Repository</a>
+    </p>
+  </body>
+</html>
