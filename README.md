@@ -12,13 +12,7 @@ Only client-side libraries are distributed here. The sandbox supervisor,
 router and host components ship separately as `.deb` packages and are not
 part of this index.
 
-## Status — not yet serving packages
-
-The index is being stood up; **no releases have been published to it yet**.
-The install instructions below are recorded so they are ready when the first
-release lands. Until then they will find nothing.
-
-## Install (once releases are published)
+## Install
 
 ```bash
 pip install --extra-index-url https://vitund-ai.github.io/pypi/simple vitund-cli
