@@ -1,0 +1,18 @@
+{
+  "vitund-cli": [
+    {
+      "filename": "vitund_cli-0.6.1631-py3-none-any.whl",
+      "requires_python": ">=3.13",
+      "sha256": "ee1e05fe162779d1e6ba07b573283805b3629390ccb6794777ba47b8a60b9791",
+      "url": "https://github.com/Vitund-AI/pypi/releases/download/v0.6.1631/vitund_cli-0.6.1631-py3-none-any.whl"
+    }
+  ],
+  "vitund-sdk": [
+    {
+      "filename": "vitund_sdk-0.6.1631-py3-none-any.whl",
+      "requires_python": ">=3.13",
+      "sha256": "ca9ce796508d82a68b6366799ea68cf1f0d8aafa6fd1ca52b995caa48ec25a28",
+      "url": "https://github.com/Vitund-AI/pypi/releases/download/v0.6.1631/vitund_sdk-0.6.1631-py3-none-any.whl"
+    }
+  ]
+}
