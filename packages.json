@@ -371,6 +371,12 @@
       "requires_python": ">=3.13",
       "sha256": "76fb10f82b78117c7469df94aa64b2a906510c9aec7d905158521e20b225f4bb",
       "url": "https://github.com/Vitund-AI/pypi/releases/download/v0.6.4522/vitund_cli-0.6.4522-py3-none-any.whl"
+    },
+    {
+      "filename": "vitund_cli-0.6.4526-py3-none-any.whl",
+      "requires_python": ">=3.13",
+      "sha256": "4e5d62433f1a2c32bb3eeec5f19f40dc75a5d0426a5191158a1cb8ef48a117c4",
+      "url": "https://github.com/Vitund-AI/pypi/releases/download/v0.6.4526/vitund_cli-0.6.4526-py3-none-any.whl"
     }
   ],
   "vitund-sdk": [
@@ -745,6 +751,12 @@
       "requires_python": ">=3.13",
       "sha256": "edb27b1cd6fc2371d710e53bf941c6bb4a642eb37fb0bf0adebb6a2f8acc9b3c",
       "url": "https://github.com/Vitund-AI/pypi/releases/download/v0.6.4522/vitund_sdk-0.6.4522-py3-none-any.whl"
+    },
+    {
+      "filename": "vitund_sdk-0.6.4526-py3-none-any.whl",
+      "requires_python": ">=3.13",
+      "sha256": "4fa8482cb317d61a79d7d25f5fedbf08907810badf8e7f40c4afda1a8930a7ed",
+      "url": "https://github.com/Vitund-AI/pypi/releases/download/v0.6.4526/vitund_sdk-0.6.4526-py3-none-any.whl"
     }
   ]
 }
